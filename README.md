@@ -40,10 +40,6 @@ The audit focused on evaluating the security posture of Botium Toys using a prov
 5. Deploy intrusion detection systems
 6. Regularly maintain and monitor legacy systems
 
-## 📁 Files
-
-- https://github.com/Fatherdeath566-unreal/Security-Audit-Report/blob/main/Botium_Toys_Security_Audit_Report_FORPORT.pdf– Full PDF audit report
-
 ---
 
 This audit demonstrates my ability to evaluate real-world environments, align findings with industry frameworks, and communicate risk clearly.
